@@ -25,7 +25,7 @@ Beyond code, I also work in **SEO**, **digital marketing**, and **business strat
 - ⚙️ Tools: Git, Figma, MySQL, Redis
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
