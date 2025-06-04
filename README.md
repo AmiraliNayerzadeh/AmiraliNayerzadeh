@@ -50,26 +50,9 @@ A knowledge-sharing platform for the academic and scientific community, handling
 
 #### 🔹 [Marketemoon.com](https://marketemoon.com)
 > A traditional B2B business transformed into a digital e-commerce solution in the cosmetics industry — and the reason I entered the world of programming.
-
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmiraliNayerzadeh&show_icons=true&theme=radical" alt="amirali-nayerzadeh" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraliNayerzadeh&theme=radical" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amirali-nayerzadeh/)
 - 🐦 [Twitter](https://twitter.com/amirali_nayer)
 - 📷 [Instagram](https://www.instagram.com/amirali_nayer/)
-
----
-
-> ⚡ Fun Fact: I started coding to help a family business. Now I help others build their vision with tech.
-
